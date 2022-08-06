@@ -1,2 +1,2 @@
-# codbex-mnemosyne
+# codbex-mnemos
 Database Management Platform
